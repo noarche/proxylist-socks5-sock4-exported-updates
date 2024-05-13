@@ -2,7 +2,10 @@
 All things proxylist related
 
 # About
-Scrape sources are good links to put into a proxy scraper/checker. Links are updated regularly. 
+
+Free proxylist with updates. Online list are last online. Historical proxylist might have some online proxies not in the online list (if you check the list! They were all online at one time).
+
+Proxy related directory is only useful to a handful of people. I just didnt want to misplace it. Scrape sources are good links to put into a proxy scraper/checker. Links are updated regularly. 
 
 
 
