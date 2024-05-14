@@ -2328,3 +2328,12 @@ ec2-18-191-164-46.us-east-2.compute.amazonaws.com:5
 178.63.84.228:60035
 58.147.189.222:443
 181.209.82.154:23500
+mfgepnqo-rotate:um40dcxsklm8@12.88.29.66:9080
+jbcoawbk-rotate:i1r2e40e0k3v@72.10.160.173:13241
+pqjsbmkd-rotate:yvpsoucb53et@72.14.184.125:22030
+hrfyozoh-rotate:pf6leap7h4gi@147.28.145.213:10037
+oiaggihf-rotate:r80uh95bpucr@131.100.51.161:999
+mbppqaqi-rotate:goye21tmqiis@103.246.247.150:3128
+173.212.223.114:8235
+38.180.44.225:80
+40.123.235.168:3128
