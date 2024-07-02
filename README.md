@@ -22,5 +22,29 @@ Most popular proxy ports to check when scanning ip range:
 8080,4145,999,1080,5678,3128,4153,7302,53281,9443,8085,6666,6969,3629,55443,1085,8888,443,5566,8081,41890,8118,9090,7300,3127,8181,10801,23500,8000,1981,41610,1981,9000,9999,9091,10001,8585,8090
 
 
+## Support
+
+Drop a tip
+
+    (BTC) address bc1qnpjpacyl9sff6r4kfmn7c227ty9g50suhr0y9j
+    
+    (ETH) address 0x94FcBab18E4c0b2FAf5050c0c11E056893134266
+    
+    (LTC) address ltc1qu7ze2hlnkh440k37nrm4nhpv2dre7fl8xu0egx
+
+
 
 ![noarche's GitHub stats](https://github-readme-stats.vercel.app/api?username=noarche&show_icons=true&theme=transparent)
+
+
+# Looking for a Combolist tool?
+
+Check out my all in one wordlist manipulator. Many useful combo tools. 
+
+https://github.com/noarche/ComboToolPro-GUI
+
+# Looking for a great dork generator? 
+
+Check out my Dork Generator, inspired by The n3r0x
+
+https://github.com/noarche/dorkGen
