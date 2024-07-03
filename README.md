@@ -43,7 +43,7 @@ Check out my all in one wordlist manipulator. Many useful combo tools.
 
 https://github.com/noarche/ComboToolPro-GUI
 
-# Looking for a great dork generator? 
+# Looking for a easy dork generator? 
 
 Check out my Dork Generator, inspired by The n3r0x
 
