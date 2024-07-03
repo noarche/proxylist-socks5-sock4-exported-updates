@@ -1,6 +1,6 @@
 # About
 
-Free proxylist with updates. Online list are last online. Historical proxylist might have some online proxies not in the online list (if you check the list! They were all online at one time).
+Free proxylist api links with updates. API links below are list verified as online proxy. Historical proxylist might have some online proxies not in the online list (Feel free to check the list as they were all verified online at one time).
 
 # API Links 
 
