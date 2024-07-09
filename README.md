@@ -12,6 +12,7 @@ https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-update
 
 https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/http-online.txt
 
+https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/connect-history.txt
 
 # Sidenote
 
