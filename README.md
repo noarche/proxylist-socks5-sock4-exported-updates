@@ -6,13 +6,13 @@ Free proxylist api links with updates. API links below are list verified as onli
 
 API Links are updated regularly and only have verified online proxys.  
 
-https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/socks5-online.txt
+[Socks5](https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/socks5-online.txt)
 
-https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/socks4-online.txt
+[Socks4](https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/socks4-online.txt)
 
-https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/http-online.txt
+[HTTP](https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/http-online.txt)
 
-https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/connect-online.txt
+[CONNECT](https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/connect-online.txt)
 
 # Sidenote
 
@@ -25,17 +25,27 @@ Proxy related directory is only useful to a handful of people. I just didnt want
 
 ## Support
 
-Drop a tip
 
-    (BTC) address bc1qnpjpacyl9sff6r4kfmn7c227ty9g50suhr0y9j
-    
-    (ETH) address 0x94FcBab18E4c0b2FAf5050c0c11E056893134266
-    
-    (LTC) address ltc1qu7ze2hlnkh440k37nrm4nhpv2dre7fl8xu0egx
+-------------------------------------------------------------------
+
+# ꧁꧂  Buy me a coffee ☕
+
+![qrCode](https://raw.githubusercontent.com/noarche/cd-ripper/main/unrelated-ignore/CryptoQRcodes.png)
+
+**Bitcoin** address `bc1qnpjpacyl9sff6r4kfmn7c227ty9g50suhr0y9j`
 
 
+**Ethereum** address `0x94FcBab18E4c0b2FAf5050c0c11E056893134266`
+
+
+**Litecoin** address `ltc1qu7ze2hlnkh440k37nrm4nhpv2dre7fl8xu0egx`
+
+
+
+-------------------------------------------------------------------
 
 ![noarche's GitHub stats](https://github-readme-stats.vercel.app/api?username=noarche&show_icons=true&theme=transparent)
+
 
 
 # Looking for a Combolist tool?
