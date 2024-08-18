@@ -58,7 +58,7 @@ Proxy related directory is only useful to a handful of people. I just didnt want
 
 
 
-#🍭 Looking for a Combolist tool?
+# 🍭 Looking for a Combolist tool?
 
 Check out my all in one wordlist manipulator. Many useful combo tools. 
 
