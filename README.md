@@ -4,7 +4,7 @@
 
 Free proxylist api links with updates. API links below are list verified as online proxy. Historical proxylist might have some online proxies not in the online list (Feel free to check the list as they were all verified online at one time).
 
-# API Links 
+# API Links / IP:PORT Proxylist.txt
 
 API Links are updated regularly and only have verified online proxys.  
 
