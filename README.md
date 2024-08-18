@@ -1,5 +1,7 @@
 # About
 
+### Updated every 20 minutes
+
 Free proxylist api links with updates. API links below are list verified as online proxy. Historical proxylist might have some online proxies not in the online list (Feel free to check the list as they were all verified online at one time).
 
 # API Links 
@@ -8,12 +10,20 @@ API Links are updated regularly and only have verified online proxys.
 
 [Socks5](https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/socks5-online.txt)
 
+    https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/socks5-online.txt
+
 [Socks4](https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/socks4-online.txt)
 
+    https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/socks4-online.txt
+    
 [HTTP](https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/http-online.txt)
+
+    https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/http-online.txt
 
 [CONNECT](https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/connect-online.txt)
 
+    https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/connect-online.txt
+    
 # Sidenote
 
 Proxy related directory is only useful to a handful of people. I just didnt want to misplace it. Scrape sources are good links to put into a proxy scraper/checker. API Links are updated regularly. 
