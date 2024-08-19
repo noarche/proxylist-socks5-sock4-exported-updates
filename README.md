@@ -23,6 +23,10 @@ API Links are updated regularly and only have verified online proxys.
 ✔️[**CONNECT**](https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/connect-online.txt)
 
     https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/connect-online.txt
+
+✔️[**Complete List**](https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/mixed-online.txt)
+
+    https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/mixed-online.txt
     
 # 📌Sidenote
 
