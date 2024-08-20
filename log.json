@@ -1,70 +1,14 @@
 {
     "sysMonLog": [
         {
-            "Date": "Monday, August 19, 2024, 08:49 PM",
-            "System_Uptime": "0 days, 19:25:30",
-            "Active_Connections": 250,
+            "Date": "Monday, August 19, 2024, 09:01 PM",
+            "System_Uptime": "0 days, 19:36:57",
+            "Active_Connections": 115,
             "Disk_Usage%": 30.4,
-            "CPU_Usage%": 17.1,
-            "RAM_Usage%": 30.4,
-            "MB_Downloaded": 1163.22,
-            "MB_Uploaded": 238.11
-        }
-    ]
-},
-{
-    "sysMonLog": [
-        {
-            "Date": "Monday, August 19, 2024, 08:50 PM",
-            "System_Uptime": "0 days, 19:26:01",
-            "Active_Connections": 241,
-            "Disk_Usage%": 30.4,
-            "CPU_Usage%": 17.0,
+            "CPU_Usage%": 13.3,
             "RAM_Usage%": 30.3,
-            "MB_Downloaded": 1163.33,
-            "MB_Uploaded": 238.43
-        }
-    ]
-},
-{
-    "sysMonLog": [
-        {
-            "Date": "Monday, August 19, 2024, 08:50 PM",
-            "System_Uptime": "0 days, 19:26:32",
-            "Active_Connections": 199,
-            "Disk_Usage%": 30.4,
-            "CPU_Usage%": 25.8,
-            "RAM_Usage%": 30.9,
-            "MB_Downloaded": 1163.47,
-            "MB_Uploaded": 239.11
-        }
-    ]
-},
-{
-    "sysMonLog": [
-        {
-            "Date": "Monday, August 19, 2024, 08:51 PM",
-            "System_Uptime": "0 days, 19:27:03",
-            "Active_Connections": 166,
-            "Disk_Usage%": 30.4,
-            "CPU_Usage%": 25.7,
-            "RAM_Usage%": 30.4,
-            "MB_Downloaded": 1163.6,
-            "MB_Uploaded": 239.57
-        }
-    ]
-},
-{
-    "sysMonLog": [
-        {
-            "Date": "Monday, August 19, 2024, 08:51 PM",
-            "System_Uptime": "0 days, 19:27:34",
-            "Active_Connections": 154,
-            "Disk_Usage%": 30.4,
-            "CPU_Usage%": 16.7,
-            "RAM_Usage%": 30.6,
-            "MB_Downloaded": 1163.68,
-            "MB_Uploaded": 239.96
+            "MB_Downloaded": 1165.54,
+            "MB_Uploaded": 249.1
         }
     ]
 },
