@@ -1,0 +1,14 @@
+{
+    "sysMonLog": [
+        {
+            "Date": "Tuesday, August 20, 2024, 02:07 AM",
+            "System_Uptime": "0 days, 0:46:22",
+            "Active_Connections": 96,
+            "Disk_Usage%": 30.7,
+            "CPU_Usage%": 1.2,
+            "RAM_Usage%": 29.9,
+            "MB_Downloaded": 109.82,
+            "MB_Uploaded": 50.0
+        }
+    ]
+},
