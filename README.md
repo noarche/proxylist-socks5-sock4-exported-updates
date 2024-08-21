@@ -62,14 +62,10 @@ Proxy related directory is only useful to a handful of people. I just didnt want
 
 
 
-# 🍭 Looking for a Combolist tool?
+# 🍭 Looking for a Proxy scraper / proxy checker?
 
-Check out my all in one wordlist manipulator. Many useful combo tools. 
+Scrapes HQ proxylist and then checks the list to verify proxy is working. 
 
-https://github.com/noarche/ComboToolPro-GUI
+[Download here](https://github.com/noarche/Proxylist-Scraper-Checker)
 
-# 💡 Looking for a easy dork generator? 
 
-Check out my Dork Generator, inspired by The n3r0x
-
-https://github.com/noarche/dorkGen
