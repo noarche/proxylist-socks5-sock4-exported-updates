@@ -628,3 +628,31 @@
         }
     ]
 },
+{
+    "sysMonLog": [
+        {
+            "Date": "Wednesday, August 21, 2024, 12:37 AM",
+            "System_Uptime": "0 days, 23:17:08",
+            "Active_Connections": 1281,
+            "Disk_Usage%": 30.7,
+            "CPU_Usage%": 15.4,
+            "RAM_Usage%": 33.5,
+            "MB_Downloaded": 921.3,
+            "MB_Uploaded": 396.77
+        }
+    ]
+},
+{
+    "sysMonLog": [
+        {
+            "Date": "Wednesday, August 21, 2024, 01:07 AM",
+            "System_Uptime": "0 days, 23:47:09",
+            "Active_Connections": 197,
+            "Disk_Usage%": 30.7,
+            "CPU_Usage%": 6.6,
+            "RAM_Usage%": 32.2,
+            "MB_Downloaded": 1001.63,
+            "MB_Uploaded": 447.15
+        }
+    ]
+},
