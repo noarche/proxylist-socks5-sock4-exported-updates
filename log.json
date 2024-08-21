@@ -530,3 +530,45 @@
         }
     ]
 },
+{
+    "sysMonLog": [
+        {
+            "Date": "Tuesday, August 20, 2024, 09:07 PM",
+            "System_Uptime": "0 days, 19:47:01",
+            "Active_Connections": 425,
+            "Disk_Usage%": 30.6,
+            "CPU_Usage%": 14.4,
+            "RAM_Usage%": 30.3,
+            "MB_Downloaded": 602.69,
+            "MB_Uploaded": 183.98
+        }
+    ]
+},
+{
+    "sysMonLog": [
+        {
+            "Date": "Tuesday, August 20, 2024, 09:37 PM",
+            "System_Uptime": "0 days, 20:17:02",
+            "Active_Connections": 97,
+            "Disk_Usage%": 30.6,
+            "CPU_Usage%": 0.8,
+            "RAM_Usage%": 30.5,
+            "MB_Downloaded": 607.1,
+            "MB_Uploaded": 184.63
+        }
+    ]
+},
+{
+    "sysMonLog": [
+        {
+            "Date": "Tuesday, August 20, 2024, 10:07 PM",
+            "System_Uptime": "0 days, 20:47:03",
+            "Active_Connections": 115,
+            "Disk_Usage%": 30.6,
+            "CPU_Usage%": 51.7,
+            "RAM_Usage%": 31.1,
+            "MB_Downloaded": 619.71,
+            "MB_Uploaded": 187.24
+        }
+    ]
+},
