@@ -8,25 +8,14 @@ Free proxylist api links with updates. API links below are list verified as onli
 
 API Links are updated regularly and only have verified online proxys.  
 
-✔️[**Socks5**](https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/socks5-online.txt)
+✔️[**Socks5**](https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/Socks5.txt)
 
-    https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/socks5-online.txt
+    https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/Socks5.txt
 
-✔️[**Socks4**](https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/socks4-online.txt)
+✔️[**Socks4**](https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/Socks4.txt)
 
-    https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/socks4-online.txt
-    
-✔️[**HTTP**](https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/http-online.txt)
-
-    https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/http-online.txt
-
-✔️[**CONNECT**](https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/connect-online.txt)
-
-    https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/connect-online.txt
-
-✔️[**Complete List**](https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/mixed-online.txt)
-
-    https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/mixed-online.txt
+    https://raw.githubusercontent.com/noarche/proxylist-socks5-sock4-exported-updates/main/Socks4.txt
+ 
     
 # 📌Sidenote
 
