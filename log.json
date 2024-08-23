@@ -1174,3 +1174,17 @@
         }
     ]
 },
+{
+    "sysMonLog": [
+        {
+            "Date": "Friday, August 23, 2024, 06:30 AM",
+            "System_Uptime": "1 days, 7:40:55",
+            "Active_Connections": 604,
+            "CPU_Usage%": 10.5,
+            "RAM_Usage%": 32.7,
+            "MB_Downloaded": 801.03,
+            "MB_Uploaded": 237.06,
+            "HDD_Used%": 28.2
+        }
+    ]
+},
