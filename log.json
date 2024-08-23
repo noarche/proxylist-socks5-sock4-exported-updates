@@ -1,45 +1,60 @@
 [
     {
-        "eventid": "00000003RITGgAxnfvL5anXVcfbX",
+        "eventid": "00000004cnhnxoV3i22f2f7p2Foa",
         "sysMonLog": {
-            "Date": "Friday, August 23, 2024, 02:12 PM",
-            "System_Uptime": "1 days, 15:22:54",
-            "Active_Connections": 176,
+            "Date": "Friday, August 23, 2024, 02:42 PM",
+            "System_Uptime": "1 days, 15:52:55",
+            "Active_Connections": 146,
             "Disk_Usage%": 28.4,
-            "CPU_Usage%": 1.6,
-            "RAM_Usage%": 33.6,
+            "CPU_Usage%": 18.7,
+            "RAM_Usage%": 35.0,
             "GB_Downloaded": 2.32,
             "GB_Uploaded": 0.45
         }
     },
     [
         {
-            "eventid": "00000002XqooacMJtCx1JL4jZ88z",
+            "eventid": "00000003RITGgAxnfvL5anXVcfbX",
             "sysMonLog": {
-                "Date": "Friday, August 23, 2024, 01:42 PM",
-                "System_Uptime": "1 days, 14:52:53",
-                "Active_Connections": 579,
+                "Date": "Friday, August 23, 2024, 02:12 PM",
+                "System_Uptime": "1 days, 15:22:54",
+                "Active_Connections": 176,
                 "Disk_Usage%": 28.4,
-                "CPU_Usage%": 0.0,
-                "RAM_Usage%": 33.7,
-                "GB_Downloaded": 2.29,
-                "GB_Uploaded": 0.44
+                "CPU_Usage%": 1.6,
+                "RAM_Usage%": 33.6,
+                "GB_Downloaded": 2.32,
+                "GB_Uploaded": 0.45
             }
         },
         [
             {
-                "eventid": "00000001tso1WzrL9lW1rbg3xER0",
+                "eventid": "00000002XqooacMJtCx1JL4jZ88z",
                 "sysMonLog": {
-                    "Date": "Friday, August 23, 2024, 01:12 PM",
-                    "System_Uptime": "1 days, 14:22:52",
-                    "Active_Connections": 556,
+                    "Date": "Friday, August 23, 2024, 01:42 PM",
+                    "System_Uptime": "1 days, 14:52:53",
+                    "Active_Connections": 579,
                     "Disk_Usage%": 28.4,
-                    "CPU_Usage%": 10.7,
-                    "RAM_Usage%": 34.5,
-                    "GB_Downloaded": 2.24,
-                    "GB_Uploaded": 0.42
+                    "CPU_Usage%": 0.0,
+                    "RAM_Usage%": 33.7,
+                    "GB_Downloaded": 2.29,
+                    "GB_Uploaded": 0.44
                 }
-            }
+            },
+            [
+                {
+                    "eventid": "00000001tso1WzrL9lW1rbg3xER0",
+                    "sysMonLog": {
+                        "Date": "Friday, August 23, 2024, 01:12 PM",
+                        "System_Uptime": "1 days, 14:22:52",
+                        "Active_Connections": 556,
+                        "Disk_Usage%": 28.4,
+                        "CPU_Usage%": 10.7,
+                        "RAM_Usage%": 34.5,
+                        "GB_Downloaded": 2.24,
+                        "GB_Uploaded": 0.42
+                    }
+                }
+            ]
         ]
     ]
 ],
