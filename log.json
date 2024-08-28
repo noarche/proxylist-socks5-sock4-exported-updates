@@ -1,5 +1,20 @@
 [
     {
+        "eventID": "00000008keVgHtt73",
+        "sysMonLog": {
+            "Date": "Wednesday, August 28, 2024, 08:49 AM",
+            "System_Uptime": "0 days, 3:39:14",
+            "Active_Connections": 266,
+            "Disk_Usage%": 22.5,
+            "Total_Processes": 238,
+            "CPU_Usage%": 12.2,
+            "RAM_Usage%": 43.6,
+            "Swap_Memory%": 3.1,
+            "Data_Downloaded": "604.32 MB",
+            "Data_Uploaded": "198.34 MB"
+        }
+    },
+    {
         "eventID": "000000073awuPEXAp",
         "sysMonLog": {
             "Date": "Wednesday, August 28, 2024, 08:19 AM",
