@@ -1,5 +1,35 @@
 [
     {
+        "eventID": "00000001fnzKFCSVi",
+        "sysMonLog": {
+            "Date": "Wednesday, August 28, 2024, 05:19 AM",
+            "System_Uptime": "0 days, 0:09:07",
+            "Active_Connections": 99,
+            "Disk_Usage%": 22.3,
+            "Total_Processes": 190,
+            "CPU_Usage%": 17.2,
+            "RAM_Usage%": 28.0,
+            "Swap_Memory%": 0.0,
+            "Data_Downloaded": "2.21 MB",
+            "Data_Uploaded": "11.61 MB"
+        }
+    },
+    {
+        "eventID": "00000064lHVFo5djI",
+        "sysMonLog": {
+            "Date": "Wednesday, August 28, 2024, 04:43 AM",
+            "System_Uptime": "1 days, 7:51:06",
+            "Active_Connections": 271,
+            "Disk_Usage%": 22.0,
+            "Total_Processes": 218,
+            "CPU_Usage%": 10.8,
+            "RAM_Usage%": 34.3,
+            "Swap_Memory%": 2.3,
+            "Data_Downloaded": "1.21 GB",
+            "Data_Uploaded": "353.26 MB"
+        }
+    },
+    {
         "eventID": "00000063KnpAK2iKj",
         "sysMonLog": {
             "Date": "Wednesday, August 28, 2024, 04:13 AM",
