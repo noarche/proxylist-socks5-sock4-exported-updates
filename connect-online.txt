@@ -818,3 +818,4 @@ ec2-13-37-59-99.eu-west-3.compute.amazonaws.com:3128
 zscaler-nat-57.rtp.zs.ncren.net:9443
 115.223.31.90:37391
 147.45.198.76:3129
+103.106.115.46:8080
