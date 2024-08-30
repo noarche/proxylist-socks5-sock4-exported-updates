@@ -58,3 +58,4 @@ U2UrF6igHSDe:SNONOCwh@nrt.socks.ipvanish.com:1080
 185.191.239.161:4444
 165.22.204.32:59166
 ec2-18-169-83-87.eu-west-2.compute.amazonaws.com:1080
+199.204.248.124:31444
