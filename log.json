@@ -1,5 +1,215 @@
 [
     {
+        "eventID": "00000032IcFhSqExy",
+        "sysMonLog": {
+            "Date": "Wednesday, September 11, 2024, 03:36 PM",
+            "System_Uptime": "0 days, 15:31:48",
+            "Active_Connections": 260,
+            "Disk_Usage%": 20.1,
+            "Total_Processes": 271,
+            "CPU_Usage%": 1.9,
+            "RAM_Usage%": 22.8,
+            "Swap_Memory%": 3.6,
+            "Data_Downloaded": "36.9 GB",
+            "Data_Uploaded": "2587.25 GB"
+        }
+    },
+    {
+        "eventID": "00000031vMpLdK4ME",
+        "sysMonLog": {
+            "Date": "Wednesday, September 11, 2024, 03:06 PM",
+            "System_Uptime": "0 days, 15:01:47",
+            "Active_Connections": 214,
+            "Disk_Usage%": 20.1,
+            "Total_Processes": 270,
+            "CPU_Usage%": 2.1,
+            "RAM_Usage%": 22.3,
+            "Swap_Memory%": 3.6,
+            "Data_Downloaded": "36.54 GB",
+            "Data_Uploaded": "2583.6 GB"
+        }
+    },
+    {
+        "eventID": "00000030qr4QA7e6c",
+        "sysMonLog": {
+            "Date": "Wednesday, September 11, 2024, 02:36 PM",
+            "System_Uptime": "0 days, 14:31:46",
+            "Active_Connections": 213,
+            "Disk_Usage%": 20.1,
+            "Total_Processes": 268,
+            "CPU_Usage%": 1.7,
+            "RAM_Usage%": 21.9,
+            "Swap_Memory%": 3.6,
+            "Data_Downloaded": "35.3 GB",
+            "Data_Uploaded": "2481.53 GB"
+        }
+    },
+    {
+        "eventID": "00000029oPKH8Yeyf",
+        "sysMonLog": {
+            "Date": "Wednesday, September 11, 2024, 02:06 PM",
+            "System_Uptime": "0 days, 14:01:45",
+            "Active_Connections": 207,
+            "Disk_Usage%": 20.1,
+            "Total_Processes": 274,
+            "CPU_Usage%": 0.3,
+            "RAM_Usage%": 22.8,
+            "Swap_Memory%": 3.6,
+            "Data_Downloaded": "34.73 GB",
+            "Data_Uploaded": "2436.19 GB"
+        }
+    },
+    {
+        "eventID": "00000028NpInTFDBz",
+        "sysMonLog": {
+            "Date": "Wednesday, September 11, 2024, 01:36 PM",
+            "System_Uptime": "0 days, 13:31:44",
+            "Active_Connections": 345,
+            "Disk_Usage%": 20.1,
+            "Total_Processes": 272,
+            "CPU_Usage%": 0.8,
+            "RAM_Usage%": 22.0,
+            "Swap_Memory%": 3.5,
+            "Data_Downloaded": "34.35 GB",
+            "Data_Uploaded": "2402.18 GB"
+        }
+    },
+    {
+        "eventID": "00000027Vh01wCedi",
+        "sysMonLog": {
+            "Date": "Wednesday, September 11, 2024, 01:06 PM",
+            "System_Uptime": "0 days, 13:01:43",
+            "Active_Connections": 219,
+            "Disk_Usage%": 20.1,
+            "Total_Processes": 267,
+            "CPU_Usage%": 2.3,
+            "RAM_Usage%": 28.4,
+            "Swap_Memory%": 3.5,
+            "Data_Downloaded": "33.63 GB",
+            "Data_Uploaded": "2309.29 GB"
+        }
+    },
+    {
+        "eventID": "00000026OIj7GN4kL",
+        "sysMonLog": {
+            "Date": "Wednesday, September 11, 2024, 12:36 PM",
+            "System_Uptime": "0 days, 12:31:42",
+            "Active_Connections": 225,
+            "Disk_Usage%": 20.1,
+            "Total_Processes": 257,
+            "CPU_Usage%": 2.0,
+            "RAM_Usage%": 19.2,
+            "Swap_Memory%": 3.6,
+            "Data_Downloaded": "32.78 GB",
+            "Data_Uploaded": "2196.32 GB"
+        }
+    },
+    {
+        "eventID": "000000251khBqgVQa",
+        "sysMonLog": {
+            "Date": "Wednesday, September 11, 2024, 12:06 PM",
+            "System_Uptime": "0 days, 12:01:41",
+            "Active_Connections": 242,
+            "Disk_Usage%": 20.1,
+            "Total_Processes": 266,
+            "CPU_Usage%": 0.8,
+            "RAM_Usage%": 21.0,
+            "Swap_Memory%": 3.4,
+            "Data_Downloaded": "31.87 GB",
+            "Data_Uploaded": "2075.72 GB"
+        }
+    },
+    {
+        "eventID": "00000024cPrhKuzKN",
+        "sysMonLog": {
+            "Date": "Wednesday, September 11, 2024, 11:36 AM",
+            "System_Uptime": "0 days, 11:31:39",
+            "Active_Connections": 199,
+            "Disk_Usage%": 20.1,
+            "Total_Processes": 276,
+            "CPU_Usage%": 4.7,
+            "RAM_Usage%": 21.6,
+            "Swap_Memory%": 3.6,
+            "Data_Downloaded": "30.69 GB",
+            "Data_Uploaded": "1956.53 GB"
+        }
+    },
+    {
+        "eventID": "00000023hX4Tf3NRi",
+        "sysMonLog": {
+            "Date": "Wednesday, September 11, 2024, 11:06 AM",
+            "System_Uptime": "0 days, 11:01:38",
+            "Active_Connections": 192,
+            "Disk_Usage%": 20.1,
+            "Total_Processes": 265,
+            "CPU_Usage%": 1.9,
+            "RAM_Usage%": 29.8,
+            "Swap_Memory%": 3.6,
+            "Data_Downloaded": "29.28 GB",
+            "Data_Uploaded": "1836.27 GB"
+        }
+    },
+    {
+        "eventID": "00000022GRelcPXlh",
+        "sysMonLog": {
+            "Date": "Wednesday, September 11, 2024, 10:36 AM",
+            "System_Uptime": "0 days, 10:31:37",
+            "Active_Connections": 216,
+            "Disk_Usage%": 20.1,
+            "Total_Processes": 261,
+            "CPU_Usage%": 5.4,
+            "RAM_Usage%": 19.9,
+            "Swap_Memory%": 3.6,
+            "Data_Downloaded": "28.15 GB",
+            "Data_Uploaded": "1717.03 GB"
+        }
+    },
+    {
+        "eventID": "00000021B1Zw9ceut",
+        "sysMonLog": {
+            "Date": "Wednesday, September 11, 2024, 10:06 AM",
+            "System_Uptime": "0 days, 10:01:36",
+            "Active_Connections": 176,
+            "Disk_Usage%": 20.1,
+            "Total_Processes": 260,
+            "CPU_Usage%": 1.5,
+            "RAM_Usage%": 28.0,
+            "Swap_Memory%": 3.5,
+            "Data_Downloaded": "27.29 GB",
+            "Data_Uploaded": "1597.33 GB"
+        }
+    },
+    {
+        "eventID": "00000020TW3oTn1fV",
+        "sysMonLog": {
+            "Date": "Wednesday, September 11, 2024, 09:36 AM",
+            "System_Uptime": "0 days, 9:31:35",
+            "Active_Connections": 192,
+            "Disk_Usage%": 20.1,
+            "Total_Processes": 263,
+            "CPU_Usage%": 0.8,
+            "RAM_Usage%": 20.3,
+            "Swap_Memory%": 3.5,
+            "Data_Downloaded": "26.0 GB",
+            "Data_Uploaded": "1489.21 GB"
+        }
+    },
+    {
+        "eventID": "00000019ngQY5wno5",
+        "sysMonLog": {
+            "Date": "Wednesday, September 11, 2024, 09:06 AM",
+            "System_Uptime": "0 days, 9:01:34",
+            "Active_Connections": 162,
+            "Disk_Usage%": 20.1,
+            "Total_Processes": 248,
+            "CPU_Usage%": 3.4,
+            "RAM_Usage%": 18.3,
+            "Swap_Memory%": 3.5,
+            "Data_Downloaded": "25.14 GB",
+            "Data_Uploaded": "1377.31 GB"
+        }
+    },
+    {
         "eventID": "00000018LWoNEopOa",
         "sysMonLog": {
             "Date": "Wednesday, September 11, 2024, 08:36 AM",
