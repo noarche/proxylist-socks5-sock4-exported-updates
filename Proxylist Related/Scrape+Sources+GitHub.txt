@@ -25,6 +25,11 @@ https://raw.githubusercontent.com/Anonym0usWork1221/Free-Proxies/main/proxy_file
 https://raw.githubusercontent.com/Anonym0usWork1221/Free-Proxies/main/proxy_files/socks4_proxies.txt
 https://raw.githubusercontent.com/Anonym0usWork1221/Free-Proxies/main/proxy_files/socks5_proxies.txt
 https://raw.githubusercontent.com/fahimscirex/proxybd/master/proxylist/http.txt
+https://raw.githubusercontent.com/zloi-user/hideip.me/refs/heads/main/https.txt
+https://raw.githubusercontent.com/zloi-user/hideip.me/refs/heads/main/socks4.txt
+https://raw.githubusercontent.com/zloi-user/hideip.me/refs/heads/main/socks5.txt
+https://raw.githubusercontent.com/zloi-user/hideip.me/refs/heads/main/http.txt
+https://raw.githubusercontent.com/zloi-user/hideip.me/refs/heads/main/connect.txt
 
 
 
