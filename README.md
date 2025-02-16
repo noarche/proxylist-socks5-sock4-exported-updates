@@ -40,10 +40,10 @@ Proxy related directory is only useful to a handful of people. I just didnt want
 
 
 
-# 🍭 Looking for a Proxy scraper / proxy checker?
+# 🍭 Looking for a FAST Socks4/Socks5 Proxylist checker?
 
-Scrapes HQ proxylist and then checks the list to verify proxy is working. 
+Written in GO for ultra high performance and reliability. Validate your proxylist is alive. 
 
-[Download here](https://github.com/noarche/Proxylist-Scraper-Checker)
+[Download here](https://github.com/noarche/proxy-checker)
 
 
