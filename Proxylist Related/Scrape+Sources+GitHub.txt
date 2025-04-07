@@ -1,4 +1,5 @@
 https://raw.githubusercontent.com/Tsprnay/Proxy-lists/master/proxies/all.txt
+https://raw.githubusercontent.com/gitrecon1455/ProxyScraper/refs/heads/main/proxies.txt
 https://raw.githubusercontent.com/sunny9577/proxy-scraper/refs/heads/master/proxies.txt
 https://github.com/ObcbO/getproxy/blob/master/http.txt
 https://github.com/prxchk/proxy-list/blob/main/all.txt
