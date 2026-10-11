@@ -154,3 +154,4 @@ https://raw.githubusercontent.com/Anonym0usWork1221/Free-Proxies/main/proxy_file
 https://raw.githubusercontent.com/Anonym0usWork1221/Free-Proxies/main/proxy_files/socks4_proxies.txt
 https://raw.githubusercontent.com/proxifly/free-proxy-list/refs/heads/main/proxies/protocols/https/data.txt
 https://raw.githubusercontent.com/proxifly/free-proxy-list/refs/heads/main/proxies/protocols/socks4/data.txt
+https://rcloak.com/api/proxies/raw?protocol=all
